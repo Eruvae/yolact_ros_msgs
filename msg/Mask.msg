@@ -1,3 +1,3 @@
 int32 width
 int32 height
-bool[] mask
+uint8[] mask # Mask encoded as bitset
